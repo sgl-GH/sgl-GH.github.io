@@ -1,11 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
-title: 杂乱无章
-description: 杂乱无章
+title: 杂乱无章1
+description: 杂乱无章7
 keywords: jiancaiZhong,Blog,Java,Html,JavaScript
 author: jiancaiZhong
-footerText: '联系我（email）: zhong@jiancai.email'
+footerText: '联系我（email）: gengliang.shi@qq.com'
 
 # 这些不要动
 permalink: /posts/:year/:month/:day/:title.html
