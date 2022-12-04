@@ -1,10 +1,11 @@
 encoding: utf-8
 
 # SEO相关信息
+# 页表标签meta
 title: 杂乱无章1
 description: 杂乱无章7
-keywords: jiancaiZhong,Blog,Java,Html,JavaScript
-author: jiancaiZhong
+keywords: sgl,Blog,Java,Html,JavaScript
+author: sgl
 footerText: '联系我（email）: gengliang.shi@qq.com'
 
 # 这些不要动
