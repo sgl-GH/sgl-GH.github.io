@@ -1,0 +1,74 @@
+encoding: utf-8
+
+# SEO相关信息
+title: 杂乱无章
+description: 杂乱无章
+keywords: jiancaiZhong,Blog,Java,Html,JavaScript
+author: jiancaiZhong
+footerText: '联系我（email）: zhong@jiancai.email'
+
+# 这些不要动
+permalink: /posts/:year/:month/:day/:title.html
+kramdown:
+  auto_ids: true
+  input: GFM
+  syntax_highlighter: rouge
+exclude: ['CNAME', 'README.md', 'LICENSE', '_site', 'dist', 'Gemfile', 'Gemfile.lock', 'blog.sh']
+
+domainUrl: ''
+baseurl: ''
+
+# 菜单
+# 必填字段 title: '文本' url: '链接'
+# 可选字段 target: '_blank' 新页面打开 
+menu:
+  - title: 首页
+    url: /
+  - title: 归类
+    url: /pages/categories.html
+  - title: 搜索
+    url: /pages/search.html
+  - title: 书签
+    url: /pages/links.html
+  - title: 留言
+    url: /pages/chat.html
+  - title: 关于
+    url: /pages/about.html
+
+# 点击页面文字冒出特效,不需要请设置为false
+extClickEffect: false
+
+# Google Adsense,不需要请设置为false
+# _includes/ext-adsense.html 里面修改为自己的配置
+extAdsense: false
+
+# 数学公式支持，比较影响加载速度,不需要请设置为false
+extMath: true
+
+# 友情链接
+links:
+  - title: Download Chrome
+    url: https://www.google.cn/chrome/
+  - title: ip Address
+    url: https://www.ipaddress.com/
+  - title: Hello Windows
+    url: https://hellowindows.cn/
+  - title: MSDN
+    url: https://msdn.itellyou.cn/
+  - title: 阿里云云效 Maven
+    url: https://developer.aliyun.com/mvn/guide
+  - title: 软件安装管家
+    url: https://rjazgj.com
+  - title: 百度翻译
+    url: https://fanyi.baidu.com/translate
+  - title: GitHub 加速
+    url: https://github.com/521xueweihan/GitHub520
+  - title: LeanCloud
+    url: https://console.leancloud.cn/apps
+  - title: Dism++
+    url: https://dism.cf/
+  - title: 阿里巴巴矢量图库
+    url: https://www.iconfont.cn/
+  - title: ContextMenuManager
+    url: https://github.com/BluePointLilac/ContextMenuManager
+  
